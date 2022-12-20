@@ -1,4 +1,4 @@
-package com.yangml.demo;
+package com.yangml.demo.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
